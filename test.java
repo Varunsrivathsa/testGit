@@ -1,6 +1,10 @@
 class Varun{
-Varun(){
-//Adding a comment
-System.out.println("Hi Mac!");
-}
+	Varun(){
+		//Adding a comment
+		System.out.println("Hi Mac!");
+	}
+
+	int add(){
+		return 2+3
+	}
 }
