@@ -12,5 +12,4 @@ int mul(){
 	int add(){
 		return 2+3
 	}
->>>>>>> AddLine
 }
