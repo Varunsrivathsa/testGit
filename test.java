@@ -1,5 +1,5 @@
 class Varun{
-<<<<<<< HEAD
+
 Varun(){
 //Adding a comment 123
 System.out.println("Hi Mac!");
