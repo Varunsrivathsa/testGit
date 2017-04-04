@@ -7,4 +7,8 @@ class Math{
 	int cuberoot(){
 		return "cubroot"
 	}
+
+	class Science {
+
+	}
 }
