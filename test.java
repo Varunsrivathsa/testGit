@@ -5,6 +5,10 @@ class Varun{
 	}
 
 	int add(){
-		return 2+3
+		return 2+3;
+	}
+
+	int div(){
+		return 10/2;
 	}
 }
