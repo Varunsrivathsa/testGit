@@ -9,6 +9,8 @@ class Math{
 	}
 
 	class Science {
-
+		Science(){
+			String TextBook = "60Pages"
+		}
 	}
 }
